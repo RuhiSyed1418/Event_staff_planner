@@ -19,10 +19,10 @@ The Event Staff Planner is a comprehensive tool designed to streamline the manag
 | Ruhi Naz N S        |    3BR23CA085    |
 | Mizba               |    3BR23CA068    | 
 
-Contribution
+
+
 We welcome contributions! Please feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-Acknowledgements
 Thank you to all the team members for their hard work and dedication.
 Special thanks to our mentors for their guidance and support.
 
