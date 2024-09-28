@@ -13,11 +13,11 @@ The Event Staff Planner is a comprehensive tool designed to streamline the manag
 
 | Name                | USN          |
 |---------------------|--------------|
-| Rishi Raj Sharma    3BR23CA084  
+| Rishi Raj Sharma       3BR23CA084  
 | S Madan                3BR23CA089   
-| S Asif Hussain       3BR23CA086   
-| Ruhi Naz N S        3BR23CA085   
-| Mizba                   3BR23CA068
+| S Asif Hussain         3BR23CA086   
+| Ruhi Naz N S           3BR23CA085   
+| Mizba                  3BR23CA068
 
 Contribution
 We welcome contributions! Please feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
